@@ -2,7 +2,7 @@
 Currently learning Java 
 
 ## Projects
- - [https://gameJet.repl.co]Working on gameJet
+ - I currently work on [gamejet] (https://games.gameJet.repl.co)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Marius-cpu&count_private=true&show_icons=true&theme=radical" />
