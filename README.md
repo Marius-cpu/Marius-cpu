@@ -1,6 +1,9 @@
-### Hey, I'm Marius! 👋
-- 🔭 I’m currently working on [gameJet](https://games.gamejet.repl.co/)
-- 🌱 I’m currently learning Java and HolyC
-- 🤔 I’m looking for help with nothing yet..
-- 📫 You can reach me on Discord under this name:  Mariuss#9999
-- 😄 Pronouns: Vladkohh
+# Hi I'm Marius  👋
+Currently working on gameJet
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MrExplode&count_private=true&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="(https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+" />
+</a>
