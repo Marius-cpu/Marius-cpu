@@ -1,11 +1,8 @@
-# Hi I'm Marius! 👋
-Currently learning Java 
+**About me:**<br/>
+My name is Marius<br/>
+I'm 14<br/>
 
-## Projects
- - [gameJet](https://games.gameJet.repl.co)<br>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Marius-cpu&count_private=true&show_icons=true&theme=radical" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marius-cpu&theme=radical&layout=compact" />
-</a>
+I'm mainly a ![java](https://imgr.search.brave.com/Nw819JIssCiTDQlIQtlzbbx9b2I4Ww9oBKc0syqe_7I/fit/57/88/no/1/aHR0cDovL3d3dy5i/ZXN0Z3JhcGguY29t/L2dpZnMvaW5mby9q/YXZhL2phdmEtMDMu/Z2lm.gif) kid.   
+I have a website: [gameJet](https://games.gameJet.repl.co) even though it's
+quite primitive, i'm working on it.
+You are visitor number ![visitor](https://www.webfreecounter.com/hit.php?id=geefanna&nd=7&style=80)
