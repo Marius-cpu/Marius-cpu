@@ -2,4 +2,5 @@
 My name is Marius<br/>
 I'm 14<br/>
 
-*I am a constantly learning Java developer working on projects such as: gameJet and fLib*
+*A **developer** learning something new everyday and working on projects such as: gameJet and fLib*
+**<3**
