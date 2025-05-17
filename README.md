@@ -7,4 +7,4 @@ Nézz körül!
 
 ---
 
-<img src="https://oscala.com/wp-content/uploads/Java-developers.svg" width="200" align="right"/>
+<img src="https://oscala.com/wp-content/uploads/Java-developers.svg" width="200" align="center"/>
